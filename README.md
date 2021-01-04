@@ -1,4 +1,4 @@
 # NLP
 Natural Language Processing <br>
-Tokenizatioin using BERT <br>
-
+Tokenization using BERT <br>
+Using BERT as Embedder <br>
